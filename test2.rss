@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>Test2</title>
+    <link>www.reddit.com</link>
+    <description>This is a test</description>
+    <language>en-us</language>
+    <item>
+      <title>TestA5</title>
+      <pubDate>Mon, 5 Jun 2017 11:57:55 +0200</pubDate>
+      <link>https://www.reddit.com/r/Art/comments/6f7bnp/sunday_on_the_lake_watercolor_30x40cm/</link>
+      <category>Nice picture</category>
+      <description><![CDATA[Nice picture]]></description>
+    </item>
+    <item>
+      <title>TestA4</title>
+      <pubDate>Mon, 5 Jun 2017 11:52:26 +0200</pubDate>
+      <link>https://www.reddit.com/r/Art/</link>
+      <category> ¯\_(:/)_/¯</category>
+      <description><![CDATA[Art stuff]]></description>
+    </item>
+    <item>
+      <title>TestA3</title>
+      <pubDate>Mon, 5 Jun 2017 11:51:37 +0200</pubDate>
+      <link>https://www.reddit.com/r/europe/</link>
+      <category>Countries</category>
+      <description><![CDATA[ ¯\_(:/)_/¯]]></description>
+    </item>
+    <item>
+      <title>TestA2</title>
+      <pubDate>Mon, 5 Jun 2017 11:49:03 +0200</pubDate>
+      <link>https://www.reddit.com/r/elderscrollsonline/</link>
+      <category>Games</category>
+      <description><![CDATA[Lots of shitposting and a good community]]></description>
+    </item>
+    <item>
+      <title>TestA1</title>
+      <pubDate>Mon, 5 Jun 2017 11:43:50 +0200</pubDate>
+      <link>https://www.reddit.com/r/AskReddit/</link>
+      <author>duncan.porter@alumnos.fesac.es</author>
+      <category>Questions</category>
+      <description><![CDATA[Heyyyy that's pretty goood]]></description>
+    </item>
+  </channel>
+</rss>
